@@ -1,8 +1,8 @@
 <h1 align="center">👋 안녕하세요, 서보영입니다!</h1>
 
 <p align="center">
-  백엔드를 중심으로 성장 중인 SSAFY 15기 개발자입니다.<br/>
-  Java · Spring Boot 기반의 서버 개발과 사이드 프로젝트를 좋아합니다.
+  꾸준히 성장하는 개발자가 되기위해 노력하고입니다.<br/>
+  
 </p>
 
 ---
@@ -21,29 +21,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoboyoung18&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoboyoung18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoboyoung18&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seoboyoung18&theme=tokyonight&no-frame=true&column=7"/>
-</p>
-
----
-
 ### 🚀 Projects
 
 - **냉큼(Naeng-Keum)** — AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE) — 백엔드 담당
-- **게임 할인 정보 모음 사이트** — CheapShark API 기반 개인 프로젝트 (진행 중)
 
 ---
 
