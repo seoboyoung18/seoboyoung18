@@ -22,7 +22,7 @@
 
 ### 🚀 Projects
 
-- **냉큼(Naeng-Keum)** — AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE) — 백엔드 담당
+- **냉큼(Naeng-Keum)** — AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE · Vue) — 풀스택
 
 ---
 
