@@ -1,8 +1,6 @@
 <h1 align="center">👋 안녕하세요, 서보영입니다!</h1>
-
 <p align="center">
   꾸준히 성장하는 개발자가 되기위해 노력하겠습니다.<br/>
-  
 </p>
 
 ---
@@ -11,17 +9,21 @@
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres&perline=6)](https://skillicons.dev)
 
-**Tools**
+**Infra & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Infra & Tools](https://skillicons.dev/icons?i=aws,git,github,idea,vscode,notion&perline=6)](https://skillicons.dev)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+---
 
 ### 🚀 Projects
 
+- **[방방봐(BangBangBwa)](https://github.com/seoboyoung18/BangBangBwa)** — 라이브로 보고 AI로 확인하는 원격 매물 검수 서비스 (Spring Boot · JPA · PostgreSQL · WebRTC · AWS S3 · Claude API) — 백엔드: 매물 · 찜 · 서류 AI 분석 담당
 - **냉큼(Naeng-Keum)** — AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE · Vue) — 풀스택
 
 ---
@@ -33,7 +35,8 @@
 
 <!--
 💡 사용 팁
-- theme 값을 바꾸면 색감이 달라져요: dark, radical, merko, gruvbox, tokyonight 등
-- 트로피 column 숫자로 한 줄에 몇 개 보일지 조절 가능
-- 나중에 프론트(Vue/React)가 익숙해지면 Tech Stack에 뱃지 추가 가능
+- skillicons.dev 는 i= 뒤에 슬러그를 콤마로 이어붙이면 됩니다 (예: i=java,spring,docker)
+- theme=light 를 붙이면 밝은 테마 아이콘으로 바뀝니다
+- perline= 숫자로 한 줄에 몇 개 보일지 조절 가능
+- 프론트(Vue/React)가 익숙해지면 i= 뒤에 react,vue,ts 추가하면 됩니다
 -->
