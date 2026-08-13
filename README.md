@@ -9,14 +9,23 @@
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres&perline=6)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Infra & Tools**
+**Infra**
 
-[![Infra & Tools](https://skillicons.dev/icons?i=aws,git,github,idea,vscode,notion&perline=6)](https://skillicons.dev)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
 
-**AI**
+**Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
@@ -35,8 +44,8 @@
 
 <!--
 💡 사용 팁
-- skillicons.dev 는 i= 뒤에 슬러그를 콤마로 이어붙이면 됩니다 (예: i=java,spring,docker)
-- theme=light 를 붙이면 밝은 테마 아이콘으로 바뀝니다
-- perline= 숫자로 한 줄에 몇 개 보일지 조절 가능
-- 프론트(Vue/React)가 익숙해지면 i= 뒤에 react,vue,ts 추가하면 됩니다
+- 배지 색은 badge/이름-색상코드 부분을 바꾸면 됩니다 (예: Java-007396)
+- logo= 뒤에는 simple-icons 슬러그가 들어갑니다 (없는 슬러그면 로고가 안 뜸)
+- 이름에 띄어쓰기가 필요하면 언더바(_)로 씁니다 (예: Spring_Boot)
+- 나중에 프론트(Vue/React)가 익숙해지면 Tech Stack에 뱃지 추가 가능
 -->
