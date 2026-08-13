@@ -33,7 +33,7 @@
 ### 🚀 Projects
 
 - **[방방봐(BangBangBwa)](https://github.com/seoboyoung18/BangBangBwa)** — 라이브로 보고 AI로 확인하는 원격 매물 검수 서비스 (Spring Boot · JPA · PostgreSQL · WebRTC · AWS S3 · Claude API) — 백엔드: 매물 · 찜 · 서류 AI 분석 담당
-- **냉큼(Naeng-Keum)** — AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE · Vue) — 풀스택
+- **[냉큼(Naeng-Keum)](https://github.com/seoboyoung18/naengkeum)**— AI 스마트 냉장고 서비스 (Spring Boot · MyBatis · JWT · SSE · Vue) — 풀스택
 
 ---
 
