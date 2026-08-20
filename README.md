@@ -15,10 +15,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Infra**
-
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge)
 
 **Tools**
 
