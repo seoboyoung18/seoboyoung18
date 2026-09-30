@@ -36,7 +36,7 @@
 
 ### 🚀 Projects
 
-- **[노카(Noca)](https://github.com/seoboyoung18/Noca)** 🔒 *(비공개 · 요청 시 공개)* — 사진 한 장으로 예상 수리비를 확인하는 AI 자동차 견적 서비스
+- **[노카(Noca)](https://github.com/seoboyoung18/Noca)**: 사진 한 장으로 예상 수리비를 확인하는 AI 자동차 견적 서비스
   (Spring Boot 4 · Java 21 · PostgreSQL · Redis · AWS S3 · Gemini)
   **백엔드**: 견적 산정·버전 관리 · AI 분석 비동기 파이프라인(폴링 워커 · 멱등 콜백) · 소셜 로그인 · 유사 사례 근거 · LLM 리포트 요약
   → 스케줄러 스레드 경합을 구간 분리 측정으로 찾아 **분석 요청 지연 중앙값 6.13초 → 1.56초** 개선
