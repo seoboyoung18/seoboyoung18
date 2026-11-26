@@ -16,13 +16,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 **Infra & DevOps**
 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 **Tools**
 
@@ -35,6 +38,11 @@
 ---
 
 ### 🚀 Projects
+
+- **[여기록(Yeogirok)](https://github.com/seoboyoung18/Yeogirok)** — 다른 여행자의 코스에서 장소를 골라 일정을 짜고, 사진과 영수증으로 여행기를 만드는 Android 앱
+  (Spring Boot 4 · Java 21 · PostgreSQL · Redis · Flyway · AWS S3 · k6)
+  **백엔드 · 인프라**: 여행 기록 · 코스 공개 · 발자취 · AR 팁 · 파일 업로드 · 멱등 처리
+  → 인덱스 후보 4종을 측정으로 비교해 **주변 팁 조회 P95 26ms → 5.4ms** (10만 건, 같은 유입률) · 동시 저장 500건에서도 중복 0건을 대조 실험으로 확인
 
 - **[노카(Noca)](https://github.com/seoboyoung18/Noca)**: 사진 한 장으로 예상 수리비를 확인하는 AI 자동차 견적 서비스
   (Spring Boot 4 · Java 21 · PostgreSQL · Redis · AWS S3 · Gemini)
@@ -64,7 +72,5 @@
 - 배지 색은 badge/이름-색상코드 부분을 바꾸면 됩니다 (예: Java-007396)
 - logo= 뒤에는 simple-icons 슬러그가 들어갑니다 (없는 슬러그면 로고가 안 뜸)
 - 이름에 띄어쓰기가 필요하면 언더바(_)로 씁니다 (예: Spring_Boot)
-- 노카를 public 으로 바꾸면 🔒 표시를 지우고 링크를 넣으면 됩니다:
-  **[노카(NOCA)](https://github.com/seoboyoung18/Noca)**
 - 나중에 프론트(Vue/React)가 익숙해지면 Tech Stack에 뱃지 추가 가능
 -->
